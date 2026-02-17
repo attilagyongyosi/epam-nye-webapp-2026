@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <!-- Represents a document section containing interactive controls for submitting information. -->
+        <!-- MDN: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form -->
+        <form action="/login" method="post">
+            <!-- Represents a caption for an item in a user interface. -->
+            <!-- MDN: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label -->
+            <label for="username-input">
+                Username:
+            </label>
+            <!-- Used to create interactive controls for web-based forms in order to accept data from the user. -->
+            <!-- MDN: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input -->
+            <input id="username-input" name="username" required="required"/>
+            <label>
+                Input a longer text:
+                <!-- Represents a multi-line plain-text editing control, useful when you want to allow users to enter a sizeable amount of free-form text. -->
+                <!-- MDN: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea -->
+                <textarea></textarea>
+            </label>
+            <label>
+                Password:
+                <input type="password" name="password"/>
+            </label>
+            <!-- An interactive element activated by a user with a mouse, keyboard, finger, voice command, or other assistive technology. -->
+            <!-- MDN: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button -->
+            <button type="submit">Login</button>
+        </form>
+    </body>
+</html>
