@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+.columns {
+  display: flex;
+  height: 100vw;
+}
+.columns > div[id=darker2] {
+  background-color: rgb(0, 25.5, 153);
+}
+.columns > div[id=darker2]::before {
+  content: "rgb(0, 25.5, 153)";
+}
+.columns > div[id=darker1] {
+  background-color: #0011cc;
+}
+.columns > div[id=darker1]::before {
+  content: "#0011cc";
+}
+.columns > div[id=base] {
+  background-color: blue;
+}
+.columns > div[id=base]::before {
+  content: "base";
+}
+.columns > div[id=lighter1] {
+  background-color: #4433ff;
+}
+.columns > div[id=lighter1]::before {
+  content: "#4433ff";
+}
+.columns > div[id=lighter2] {
+  background-color: rgb(127.5, 102, 255);
+}
+.columns > div[id=lighter2]::before {
+  content: "rgb(127.5, 102, 255)";
+}
+.columns > div {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=colors.css.map */
