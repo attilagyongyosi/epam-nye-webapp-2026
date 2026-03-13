@@ -41,12 +41,12 @@ Ez a repository az EPAM Systems Hungary Kft. és a Nyíregyházi Egyetem együtt
 * Formátum: 2-3 fős csapatok
 * Téma: teljes webalkalmazás lefejlesztése
 * Követelmények
-** A pontos követelményeket hamarosan közzétesszük.
-** Minden csapattagnak képviseltetnie kell magát a Git commit history-ban legalább néhány committal.
+- A pontos követelményeket hamarosan közzétesszük.
+- Minden csapattagnak képviseltetnie kell magát a Git commit history-ban legalább néhány committal.
 * Védés
-** Időpont: 2026. 05. 12.
-** Minden csapatnak ~5 perc áll rendelkezésére szóbeli védéshez.
-** Minden csapattagnak röviden prezentálnia kell hogy a projekt melyik részének fejlesztésében vett részt és hogyan.
+- Időpont: 2026. 05. 12.
+- Minden csapatnak ~5 perc áll rendelkezésére szóbeli védéshez.
+- Minden csapattagnak röviden prezentálnia kell hogy a projekt melyik részének fejlesztésében vett részt és hogyan.
 
 ## ❓ FAQ
 ### Lehet használni AI-alapú kódgeneráló eszközöket?
