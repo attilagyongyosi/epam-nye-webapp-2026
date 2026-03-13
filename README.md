@@ -4,7 +4,7 @@ Ez a repository az EPAM Systems Hungary Kft. és a Nyíregyházi Egyetem együtt
 
 ### Idővel ide fog kerülni minden érdemi információ :)
 
-## Tanrend
+## 📅 Tanrend
 01. Kliens-szerver architektúra & HTTP Alapozó (2026-02-10 16:00 - Gyöngyösi Attila)
 02. HTML Alapozó (2026-02-17 16:00 - Gyöngyösi Attila)
 03. CSS Alapozó (2026-02-24 16:00 - Tar Zoltán)
@@ -19,12 +19,12 @@ Ez a repository az EPAM Systems Hungary Kft. és a Nyíregyházi Egyetem együtt
 12. Kitelepítés (Netlify) (2026-05-05 16:00 - Gyöngyösi Attila)
 13. **Projektmunka Védés (2026-05-12)**
 
-## A tantárgy teljesítésének feltétele
+## 👨🏻‍🎓 A tantárgy teljesítésének feltétele
 ✅ A tanórák látogatása (minimális hiányzás ellenében - a Microsoft Teams tart nyilvántartást a bejelentkezett résztvevőkről)  
 ✅ A ZH sikeres teljesítése  
 ✅ A csoportos projektmunka sikeres beadása és megvédése
 
-## ZH Tudnivalók
+## 👨🏻‍💻 ZH Tudnivalók
 * Időpont: 2026. 03. 17. 16:00
 * Téma: HTML, CSS & JavaScript.
 * Módja: online.
@@ -37,7 +37,7 @@ Ez a repository az EPAM Systems Hungary Kft. és a Nyíregyházi Egyetem együtt
 * A rendelkezésre álló idő után a pull request nyitás lehetősége megszűnik.
 * A sikeres ZH a pull request-ek és a tesztfuttatások kiértékelésének függvénye.
 
-## Beadandó Csapatmunka
+## 🫱🏼‍🫲🏼 Beadandó Csapatmunka
 * Formátum: 2-3 fős csapatok
 * Téma: teljes webalkalmazás lefejlesztése
 * Követelmények
@@ -48,7 +48,7 @@ Ez a repository az EPAM Systems Hungary Kft. és a Nyíregyházi Egyetem együtt
 ** Minden csapatnak ~5 perc áll rendelkezésére szóbeli védéshez.
 ** Minden csapattagnak röviden prezentálnia kell hogy a projekt melyik részének fejlesztésében vett részt és hogyan.
 
-## FAQ
+## ❓ FAQ
 ### Lehet használni AI-alapú kódgeneráló eszközöket?
 Igen, az egyetemi szabályzatnak megfelelő eszközöket lehet alkalmazni mind a ZH megoldása mind a projektmunka fejlesztése közben.
 Arra kérünk mindenkit hogy a használt promptokat / skill-eket / workflow-kat / hook-okat / plan-eket, mindent ami input az AI-nak, azt valamilyen formában csatoljátok
@@ -60,7 +60,7 @@ Nincs, nyugodtan használjátok amit lehet és kézre esik nektek.
 ### Valami nem tiszta, kihez fordulhatok segítségért?
 Teams-en nyugodtan keressetek bennünket oktatókat és segítünk.
 
-## Hasznos Linkek
+## 🔗 Hasznos Linkek
 * Git: https://git-scm.com/install/windows
 * Node.js: https://nodejs.org/en/download/current
 * ExpressJS: https://expressjs.com/
