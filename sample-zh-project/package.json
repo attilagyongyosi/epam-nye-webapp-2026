@@ -1,0 +1,11 @@
+{
+  "name": "sample-zh-project",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "vitest run --coverage"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "4.1.0",
+    "vitest": "4.1.0"
+  }
+}
